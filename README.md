@@ -1,20 +1,29 @@
 # Artificial Intelligence
 
-This repository contains Artificial Intelligence lab tasks, algorithms, and problem-solving implementations using Python.
+This repository contains Artificial Intelligence algorithms, search techniques, and problem-solving implementations using Python.
 
-## Topics Covered
+## 📌 Contents
 
-- Search Algorithms
-- BFS
-- DFS
-- Heuristic Search
-- Optimization Techniques
-- AI Problem Solving
+### Search Algorithms
+- BFS (Breadth First Search)
+- DFS (Depth First Search)
+- Depth Limited Search (DLS)
+- Iterative Deepening Search (IDS)
 
-## Language Used
+### Informed Search
+- Best First Search
+- A* Search
 
-- Python
+### Uninformed Search
+- Uniform Cost Search (UCS)
 
-## Purpose
+## 📁 Repository Structure
 
-This repository is created for academic lab work, AI practice, and learning Artificial Intelligence concepts.
+Artificial-Intelligence/
+├── BFS/
+├── DFS/
+├── DepthLimitedSearch/
+├── IterativeDeepeningSearch/
+├── BestFirstSearch/
+├── UniformCostSearch/
+├── AStarSearch/
